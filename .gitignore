@@ -1,7 +1,9 @@
 
 env/
 db.sqlite3
-my-keypari.pem
 alexgilson/secret_key.py
 alexgilson/secret_key.txt
+alexgilson/secret_key.py
 *.pyc
+my-keypair.pem
+alex-gilson-com-keypair-london.pem
