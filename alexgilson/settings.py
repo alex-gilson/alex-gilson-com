@@ -10,7 +10,11 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/2.0/ref/settings/
 """
 
-from secret_key.py import SECRET_KEY
+
+
+with open('/home/ubuntu/alex-gilson-com/alexgilson/secret_key.txt', 'r') as file:
+    SECRET_KEY = file.read()
+
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)

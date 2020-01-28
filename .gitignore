@@ -3,3 +3,5 @@ env/
 db.sqlite3
 my-keypari.pem
 alexgilson/secret_key.py
+alexgilson/secret_key.txt
+*.pyc
