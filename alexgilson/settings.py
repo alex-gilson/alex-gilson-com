@@ -28,6 +28,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEBUG = True
 
 ALLOWED_HOSTS = ['3.10.198.213',
+                '35.178.174.41',
+                'ec2-35-178-174-41.eu-west-2.compute.amazonaws.com',
                 'www.alex-gilson.com',
                 'alex-gilson.com']
 
