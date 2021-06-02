@@ -63,7 +63,7 @@ stripe==2.4.0
 termcolor==1.1.0
 texttable==0.9.1
 tzlocal==1.5.1
-urllib3==1.25.8
+urllib3==1.26.5
 uuid==1.30
 virtualenv==15.1.0
 wcwidth==0.1.8
